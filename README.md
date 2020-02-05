@@ -1,4 +1,4 @@
-# Automating_Tasks_Mac
+# Automating Tasks Mac
 Here you can find the applescripts I use to automate daily tasks on a Mac. All scripts are written in Applescript language.
 
 ## Script Description
